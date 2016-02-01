@@ -1,0 +1,18 @@
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.dll
+C:\Users\shchau\Downloads\practical-html5\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.pdb
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.dll
+C:\Users\shchau\Desktop\Edusmart Content\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.pdb
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll.config
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.dll
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\bin\JoesCoffeeStore.Web.pdb
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.csprojResolveAssemblyReference.cache
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.dll
+C:\Users\sakirtan\Downloads\Web dev - MSP on-boarding\HOL Code\HOL Code\2-practical-html5-m2-basiccssjs-exercise-files\Demo 1\After\JoesCoffeeStore.Web\JoesCoffeeStore.Web\obj\x86\Debug\JoesCoffeeStore.Web.pdb
